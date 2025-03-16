@@ -29,10 +29,7 @@ class PostTests(TestCase):
     # def test_template_name(self):
     #     r=self.client.get(reverse("home"))
     #     self.assertTemplateUsed(r,"posts_list.html")
-    
-    # def test_template_content(self):
-    #     r=self.client.get(reverse("home"))
-    #     self.assertContains(r,"this is a test!")
+   
     
     
 
